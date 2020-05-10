@@ -6,7 +6,7 @@ Dev challenge at Stink Studios London: use [Spark AR Studio](https://sparkar.fac
 
 I've included the custom `script.js` file I wrote to drive the interactions and timer. Spark AR has gone through 37(!) major version in the 8 months since I made this project, so the APIs this code references have likely changed. I've got version 48.1 of Spark AR on my machine. 
 
-The core technical aspect I was interested in was getting the knife to look like it was stuck in the head (i.e. to get the tracking and layering occlusion right). I then figured it needed a build up for the suspense and foreshadowing, so that the "big reveal" would satisfying. I ended up with something a bit like an interactive music video that requires around 2 minutes of attention. Definitely more an art experiment than an attempt to make a filter people would use on Instagram! 
+The core technical aspect I was interested in was getting the knife to look like it was stuck in the head (i.e. to get the tracking and layering occlusion right). Wanting to build a bit of suspense up to the "big reveal", I ended up with something a bit like an interactive music video that requires around 2 minutes of attention. Definitely more an art experiment than an attempt to make a filter people would use on Instagram! 
 
 I screen recorded an entire end-to-end run here: [vimeo.com/407093062](https://vimeo.com/407093062)
 
